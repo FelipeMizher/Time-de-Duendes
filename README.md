@@ -64,7 +64,7 @@ O projeto está organizado da seguinte forma:
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/FelipeMizher/NOME-DO-REPOSITORIO.git
+   git clone https://github.com/FelipeMizher/Time-de-Duendes.git
 
 
 2. Compile o Projeto:

@@ -71,6 +71,6 @@ O projeto está organizado da seguinte forma:
     ```bash
     javac Time_Duendes.java
 
-3. Execute a Aplicação:
+3. Executar a Aplicação:
     ```bash
     java Time_Duendes
